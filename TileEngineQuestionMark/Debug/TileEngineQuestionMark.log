@@ -1,0 +1,39 @@
+﻿  Editor.cpp
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\editor.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\editor.cpp(43): warning C4018: '<': signed/unsigned mismatch
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\editor.cpp(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\editor.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\editor.cpp(98): warning C4018: '<': signed/unsigned mismatch
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\editor.cpp(108): warning C4018: '<': signed/unsigned mismatch
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\editor.cpp(136): warning C4018: '<': signed/unsigned mismatch
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\editor.cpp(230): warning C4018: '<': signed/unsigned mismatch
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\editor.cpp(253): warning C4018: '<': signed/unsigned mismatch
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\editor.cpp(291): warning C4018: '<': signed/unsigned mismatch
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\editor.cpp(298): warning C4018: '<': signed/unsigned mismatch
+  Editor_GUI.cpp
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\editor_gui.cpp(16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\editor_gui.cpp(26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\editor_gui.cpp(27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\editor_gui.cpp(29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\editor_gui.cpp(30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\editor_gui.cpp(32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\editor_gui.cpp(33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\editor_gui.cpp(34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\editor_gui.cpp(35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\editor_gui.cpp(36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\editor_gui.cpp(171): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\editor_gui.cpp(186): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\editor_gui.cpp(185): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\editor_gui.cpp(209): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\editor_gui.cpp(208): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\editor_gui.cpp(230): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\editor_gui.cpp(240): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\editor_gui.cpp(244): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\editor_gui.cpp(252): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\editor_gui.cpp(256): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+  GameText.cpp
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\gametext.cpp(15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\bruno\desktop\tileenginequestionmark\tileenginequestionmark\gametext.cpp(16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  TileEngineQuestionMark.vcxproj -> C:\Users\Bruno\Desktop\TileEngineQuestionMark\Debug\TileEngineQuestionMark.exe
